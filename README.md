@@ -48,14 +48,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Lohith-V-K/Leet_code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lohith-V-K/Leet_code/tree/master/0020-valid-parentheses) |
+| [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
