@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Lohith-V-K/Leet_code/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
