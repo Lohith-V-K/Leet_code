@@ -14,7 +14,7 @@ public:
             slow=nums[slow];
             fast=nums[fast];
         }
-        return fast;
+        return slow;
 
         
     }
