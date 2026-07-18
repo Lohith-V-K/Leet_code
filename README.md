@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Lohith-V-K/Leet_code/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
