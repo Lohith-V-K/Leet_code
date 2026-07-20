@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0338-counting-bits) |
