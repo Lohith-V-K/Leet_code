@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0338-counting-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
