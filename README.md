@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lohith-V-K/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## String
