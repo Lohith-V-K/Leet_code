@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Lohith-V-K/Leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lohith-V-K/Leet_code/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
