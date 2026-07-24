@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lohith-V-K/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Lohith-V-K/Leet_code/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
