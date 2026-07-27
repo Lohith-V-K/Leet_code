@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0784-letter-case-permutation](https://github.com/Lohith-V-K/Leet_code/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
