@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lohith-V-K/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Lohith-V-K/Leet_code/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lohith-V-K/Leet_code/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
