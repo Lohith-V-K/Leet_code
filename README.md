@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Lohith-V-K/Leet_code/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Lohith-V-K/Leet_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
