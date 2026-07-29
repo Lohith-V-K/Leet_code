@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Lohith-V-K/Leet_code/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lohith-V-K/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lohith-V-K/Leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lohith-V-K/Leet_code/tree/master/2104-sum-of-subarray-ranges) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lohith-V-K/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lohith-V-K/Leet_code/tree/master/0992-subarrays-with-k-different-integers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lohith-V-K/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
