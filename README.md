@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Lohith-V-K/Leet_code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Lohith-V-K/Leet_code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
 ## Array
 |  |
