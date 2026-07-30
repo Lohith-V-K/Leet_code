@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lohith-V-K/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohith-V-K/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohith-V-K/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lohith-V-K/Leet_code/tree/master/1004-max-consecutive-ones-iii) |
