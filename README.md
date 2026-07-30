@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Lohith-V-K/Leet_code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lohith-V-K/Leet_code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 ## Merge Sort
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Lohith-V-K/Leet_code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Lohith-V-K/Leet_code/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Lohith-V-K/Leet_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lohith-V-K/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohith-V-K/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
