@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lohith-V-K/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
