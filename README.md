@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Lohith-V-K/Leet_code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lohith-V-K/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Merge Sort
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lohith-V-K/Leet_code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Lohith-V-K/Leet_code/tree/master/0735-asteroid-collision) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lohith-V-K/Leet_code/tree/master/0992-subarrays-with-k-different-integers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lohith-V-K/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lohith-V-K/Leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
