@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lohith-V-K/Leet_code/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Lohith-V-K/Leet_code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lohith-V-K/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lohith-V-K/Leet_code/tree/master/0355-design-twitter) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
