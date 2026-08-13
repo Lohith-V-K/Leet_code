@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lohith-V-K/Leet_code/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
