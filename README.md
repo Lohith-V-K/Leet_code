@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Lohith-V-K/Leet_code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lohith-V-K/Leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lohith-V-K/Leet_code/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Lohith-V-K/Leet_code/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lohith-V-K/Leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Lohith-V-K/Leet_code/tree/master/0901-online-stock-span) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Lohith-V-K/Leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lohith-V-K/Leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Lohith-V-K/Leet_code/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lohith-V-K/Leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
