@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Lohith-V-K/Leet_code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Lohith-V-K/Leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lohith-V-K/Leet_code/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Lohith-V-K/Leet_code/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lohith-V-K/Leet_code/tree/master/0907-sum-of-subarray-minimums) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/Lohith-V-K/Leet_code/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lohith-V-K/Leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
