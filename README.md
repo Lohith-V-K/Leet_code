@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lohith-V-K/Leet_code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Lohith-V-K/Leet_code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lohith-V-K/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Lohith-V-K/Leet_code/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Lohith-V-K/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lohith-V-K/Leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
@@ -505,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Lohith-V-K/Leet_code/tree/master/0173-binary-search-tree-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
