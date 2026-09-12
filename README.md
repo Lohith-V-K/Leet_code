@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Lohith-V-K/Leet_code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Lohith-V-K/Leet_code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lohith-V-K/Leet_code/tree/master/0051-n-queens) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Lohith-V-K/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0338-counting-bits) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Lohith-V-K/Leet_code/tree/master/0455-assign-cookies) |
