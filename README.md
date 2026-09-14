@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lohith-V-K/Leet_code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lohith-V-K/Leet_code/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Lohith-V-K/Leet_code/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Lohith-V-K/Leet_code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lohith-V-K/Leet_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Lohith-V-K/Leet_code/tree/master/0078-subsets) |
