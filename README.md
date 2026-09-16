@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Lohith-V-K/Leet_code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Lohith-V-K/Leet_code/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Lohith-V-K/Leet_code/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0678-valid-parenthesis-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Lohith-V-K/Leet_code/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Lohith-V-K/Leet_code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lohith-V-K/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Lohith-V-K/Leet_code/tree/master/0904-fruit-into-baskets) |
