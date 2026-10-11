@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Lohith-V-K/Leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohith-V-K/Leet_code/tree/master/0713-subarray-product-less-than-k) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Lohith-V-K/Leet_code/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Lohith-V-K/Leet_code/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lohith-V-K/Leet_code/tree/master/0907-sum-of-subarray-minimums) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lohith-V-K/Leet_code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Lohith-V-K/Leet_code/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lohith-V-K/Leet_code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0662-maximum-width-of-binary-tree) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lohith-V-K/Leet_code/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lohith-V-K/Leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Lohith-V-K/Leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
