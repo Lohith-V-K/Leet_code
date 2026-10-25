@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Lohith-V-K/Leet_code/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lohith-V-K/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Lohith-V-K/Leet_code/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Lohith-V-K/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lohith-V-K/Leet_code/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Lohith-V-K/Leet_code/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Lohith-V-K/Leet_code/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Lohith-V-K/Leet_code/tree/master/0299-bulls-and-cows) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Lohith-V-K/Leet_code/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Lohith-V-K/Leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohith-V-K/Leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lohith-V-K/Leet_code/tree/master/0200-number-of-islands) |
@@ -656,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lohith-V-K/Leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lohith-V-K/Leet_code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Lohith-V-K/Leet_code/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
