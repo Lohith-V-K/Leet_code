@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Lohith-V-K/Leet_code/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Lohith-V-K/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lohith-V-K/Leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohith-V-K/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Lohith-V-K/Leet_code/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lohith-V-K/Leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lohith-V-K/Leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Lohith-V-K/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lohith-V-K/Leet_code/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohith-V-K/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Lohith-V-K/Leet_code/tree/master/0189-rotate-array) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lohith-V-K/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lohith-V-K/Leet_code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lohith-V-K/Leet_code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lohith-V-K/Leet_code/tree/master/0547-number-of-provinces) |
