@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Lohith-V-K/Leet_code/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Lohith-V-K/Leet_code/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lohith-V-K/Leet_code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lohith-V-K/Leet_code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Lohith-V-K/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Lohith-V-K/Leet_code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Lohith-V-K/Leet_code/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/Lohith-V-K/Leet_code/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
