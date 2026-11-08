@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lohith-V-K/Leet_code/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lohith-V-K/Leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Lohith-V-K/Leet_code/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Lohith-V-K/Leet_code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith-V-K/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Lohith-V-K/Leet_code/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lohith-V-K/Leet_code/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lohith-V-K/Leet_code/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith-V-K/Leet_code/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Lohith-V-K/Leet_code/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lohith-V-K/Leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Lohith-V-K/Leet_code/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lohith-V-K/Leet_code/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Lohith-V-K/Leet_code/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Lohith-V-K/Leet_code/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -637,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lohith-V-K/Leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lohith-V-K/Leet_code/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lohith-V-K/Leet_code/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Lohith-V-K/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Lohith-V-K/Leet_code/tree/master/1631-path-with-minimum-effort) |
 ## Newton's Method
 |  |
