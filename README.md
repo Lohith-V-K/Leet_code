@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Lohith-V-K/Leet_code/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lohith-V-K/Leet_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lohith-V-K/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lohith-V-K/Leet_code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lohith-V-K/Leet_code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Lohith-V-K/Leet_code/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/Lohith-V-K/Leet_code/tree/master/3904-smallest-stable-index-ii) |
