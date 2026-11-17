@@ -706,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lohith-V-K/Leet_code/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Lohith-V-K/Leet_code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
